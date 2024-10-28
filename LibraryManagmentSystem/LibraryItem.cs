@@ -15,6 +15,13 @@ namespace LibraryManagmentSystem
             Title = title;
             PublicationYear = publicationYear;
         }
+
+        protected LibraryItem(string title, int? publicationYear)
+        {
+            Title = title;
+            PublicationYear = publicationYear;
+        }
+
         public abstract void DisplayInfo();
     }
 }

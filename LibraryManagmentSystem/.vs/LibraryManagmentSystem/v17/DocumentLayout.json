@@ -1,10 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\LibraryManagmentSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|c:\\users\\ii novbe\\source\\repos\\librarymanagmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\exampletask\\librarymanagmentsystem\\librarianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|solutionrelative:librarianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\exampletask\\librarymanagmentsystem\\ilibrarianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|solutionrelative:ilibrarianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\exampletask\\librarymanagmentsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\exampletask\\librarymanagmentsystem\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|solutionrelative:librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\exampletask\\librarymanagmentsystem\\libraryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|solutionrelative:libraryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\exampletask\\librarymanagmentsystem\\librarylocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|solutionrelative:librarylocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\exampletask\\librarymanagmentsystem\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|solutionrelative:magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\exampletask\\librarymanagmentsystem\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|solutionrelative:libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\exampletask\\librarymanagmentsystem\\bookgenreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|solutionrelative:bookgenreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\exampletask\\librarymanagmentsystem\\librarymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|solutionrelative:librarymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\exampletask\\librarymanagmentsystem\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\exampletask\\librarymanagmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\exampletask\\librarymanagmentsystem\\librarycatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|solutionrelative:librarycatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\exampletask\\librarymanagmentsystem\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1884A005-A8EB-4405-A4AF-BCDDF0A4B45D}|LibraryManagmentSystem.csproj|solutionrelative:dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,20 +69,190 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryLocation.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\LibraryLocation.cs",
+              "RelativeDocumentMoniker": "LibraryLocation.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\LibraryLocation.cs",
+              "RelativeToolTip": "LibraryLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:44:59.214Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibrarianService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\LibrarianService.cs",
+              "RelativeDocumentMoniker": "LibrarianService.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\LibrarianService.cs",
+              "RelativeToolTip": "LibrarianService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:10:33.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILibrarianService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\ILibrarianService.cs",
+              "RelativeDocumentMoniker": "ILibrarianService.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\ILibrarianService.cs",
+              "RelativeToolTip": "ILibrarianService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:00:20.883Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "LibraryItem.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\LibraryItem.cs",
+              "RelativeDocumentMoniker": "LibraryItem.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\LibraryItem.cs",
+              "RelativeToolTip": "LibraryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:45:01.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookGenreEnum.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\BookGenreEnum.cs",
+              "RelativeDocumentMoniker": "BookGenreEnum.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\BookGenreEnum.cs",
+              "RelativeToolTip": "BookGenreEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:45:21.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:44:38.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\Magazine.cs",
+              "RelativeDocumentMoniker": "Magazine.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\Magazine.cs",
+              "RelativeToolTip": "Magazine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:44:53.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibraryHelper.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\LibraryHelper.cs",
+              "RelativeDocumentMoniker": "LibraryHelper.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\LibraryHelper.cs",
+              "RelativeToolTip": "LibraryHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:45:03.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\Librarian.cs",
+              "RelativeDocumentMoniker": "Librarian.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\Librarian.cs",
+              "RelativeToolTip": "Librarian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:45:13.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibraryMember.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\LibraryMember.cs",
+              "RelativeDocumentMoniker": "LibraryMember.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\LibraryMember.cs",
+              "RelativeToolTip": "LibraryMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:44:56.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:44:50.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\LibraryManagmentSystem\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\LibraryManagmentSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T13:04:43.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LibraryCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\LibraryCatalog.cs",
+              "RelativeDocumentMoniker": "LibraryCatalog.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\LibraryCatalog.cs",
+              "RelativeToolTip": "LibraryCatalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:45:05.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DVD.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\DVD.cs",
+              "RelativeDocumentMoniker": "DVD.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\ExampleTask\\LibraryManagmentSystem\\DVD.cs",
+              "RelativeToolTip": "DVD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:48:45.955Z",
               "EditorCaption": ""
             }
           ]

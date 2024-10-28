@@ -8,7 +8,7 @@ namespace LibraryManagmentSystem
 {
     internal class Book : LibraryItem
     {
-        public Book(string title, int publicationYear, BookGenreEnum genre, LibraryLocation location) : base(title, publicationYear)
+        public Book(string title, int? publicationYear, BookGenreEnum genre, LibraryLocation location) : base(title, publicationYear)
         {
             Genre = genre;
             Location = location;

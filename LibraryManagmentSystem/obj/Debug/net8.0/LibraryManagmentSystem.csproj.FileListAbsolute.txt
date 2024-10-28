@@ -1,0 +1,15 @@
+C:\Users\admin\OneDrive\İş masası\ExampleTask\LibraryManagmentSystem\bin\Debug\net8.0\LibraryManagmentSystem.exe
+C:\Users\admin\OneDrive\İş masası\ExampleTask\LibraryManagmentSystem\bin\Debug\net8.0\LibraryManagmentSystem.deps.json
+C:\Users\admin\OneDrive\İş masası\ExampleTask\LibraryManagmentSystem\bin\Debug\net8.0\LibraryManagmentSystem.runtimeconfig.json
+C:\Users\admin\OneDrive\İş masası\ExampleTask\LibraryManagmentSystem\bin\Debug\net8.0\LibraryManagmentSystem.dll
+C:\Users\admin\OneDrive\İş masası\ExampleTask\LibraryManagmentSystem\bin\Debug\net8.0\LibraryManagmentSystem.pdb
+C:\Users\admin\OneDrive\İş masası\ExampleTask\LibraryManagmentSystem\obj\Debug\net8.0\LibraryManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\İş masası\ExampleTask\LibraryManagmentSystem\obj\Debug\net8.0\LibraryManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\İş masası\ExampleTask\LibraryManagmentSystem\obj\Debug\net8.0\LibraryManagmentSystem.AssemblyInfo.cs
+C:\Users\admin\OneDrive\İş masası\ExampleTask\LibraryManagmentSystem\obj\Debug\net8.0\LibraryManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\İş masası\ExampleTask\LibraryManagmentSystem\obj\Debug\net8.0\LibraryManagmentSystem.sourcelink.json
+C:\Users\admin\OneDrive\İş masası\ExampleTask\LibraryManagmentSystem\obj\Debug\net8.0\LibraryManagmentSystem.dll
+C:\Users\admin\OneDrive\İş masası\ExampleTask\LibraryManagmentSystem\obj\Debug\net8.0\refint\LibraryManagmentSystem.dll
+C:\Users\admin\OneDrive\İş masası\ExampleTask\LibraryManagmentSystem\obj\Debug\net8.0\LibraryManagmentSystem.pdb
+C:\Users\admin\OneDrive\İş masası\ExampleTask\LibraryManagmentSystem\obj\Debug\net8.0\LibraryManagmentSystem.genruntimeconfig.cache
+C:\Users\admin\OneDrive\İş masası\ExampleTask\LibraryManagmentSystem\obj\Debug\net8.0\ref\LibraryManagmentSystem.dll
